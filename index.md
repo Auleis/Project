@@ -2,8 +2,9 @@
 
 ## CONTENTS
 [Intro](https://github.com/Auleis/Project/blob/gh-pages/index.md#intro)
-
-
+[What is the character sheet?](https://github.com/Auleis/Project/blob/gh-pages/index.md#what-is-the-character-sheet)
+[Before working on the sheet](https://github.com/Auleis/Project/blob/gh-pages/index.md#Before-working-on-the-sheet)
+[Character stats](https://github.com/Auleis/Project/blob/gh-pages/index.md#Characters-stats)
 
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
