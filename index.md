@@ -42,6 +42,7 @@ the character sheets look can vary some, but the offical one is the following
 ## Before working on the sheet
 You should figure out what type of character you will be playing. Who they are, what they want, why they do things etc. This is to give an idea of what you want to do.
 Once you figure ou the basic information about them, such as name, Personality, Flaws, height, etc, write these down in their respective boxs.
+
 ![Image](https://i.imgur.com/jEbiEHK.png)
 
 ## Characters stats
@@ -61,6 +62,8 @@ Each race also gives boosts to some of your stats. Add these stat boosts to the 
 ## Stat modifiers
 The first things your stats affect are your "Stat Modifyers" or "Stat mods" Take each stats number, Divide it by 2, and then subtract 5. Always round down, and this number is your stat mod. Write this number in the small circle below each of the stat numbers in their boxs. 
 
+![image](https://i.imgur.com/04BkJeg.png)
+
 ## Background
 now we step away from numbers for a bit. It is now time to chose a background for your character. Read through the list of backgrounds in the PHB and pick one most fitting for your character. Each background offers different skill proficiences, items, unique features and flavor for your character. 
 
@@ -71,8 +74,6 @@ Proficiences are what your character is good at. Sometimes your race will offer 
 
 ## Proficency bonus
 each character has a "Proficency bonus" this is a number added to any dice roll that uses a skill you are proficent in. As your character levels up, they get better at things they are proficent at. There is a table in the PHB that tells you what your proficeny bonus is at each level. 
-
-![image](https://i.imgur.com/04BkJeg.png)
 
 ## Pick your characters class
 Next up is to pick what class your character best belongs to. There are a bunch of classes, Read through each one and pick whatever best fits your character. The class you pick will also offer some proficiencys you should also mark down. Your class will also give you equipment which you should write down in your "Equipment" list.
@@ -85,10 +86,12 @@ once you have picks your class, you will now gain powers and abilities. Each cla
 ## Hitpoints and hit Die
 Each level your character gains Hit points and Hit Die. For your hit points at level one you take the maximum number from what your class says to roll (If you roll a d8, take 8) and add your CON mod. This is your hitpoints at level one.
 
+![image](https://i.imgur.com/oTEYDFJ.png)
+
 ## Inititive
 in the box that says inititive, write down whatever your DEX mod is. 
 
-![image[(https://i.imgur.com/oTEYDFJ.png)
+![image](https://i.imgur.com/oTEYDFJ.png)
 
 # And that's it!
 Your character sheet is now complete.
