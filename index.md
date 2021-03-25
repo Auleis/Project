@@ -1,35 +1,35 @@
 # How To Make A "Dungeons and Dragons" Character sheet
 
 ## CONTENTS
-[Intro](https://github.com/Auleis/Project/blob/gh-pages/index.md#intro)
+[Intro](#intro)
 
-[What is the character sheet?](https://github.com/Auleis/Project/blob/gh-pages/index.md#what-is-the-character-sheet)
+[What is the character sheet?](#what-is-the-character-sheet)
 
-[Before working on the sheet](https://github.com/Auleis/Project/blob/gh-pages/index.md#Before-working-on-the-sheet)
+[Before working on the sheet](#Before-working-on-the-sheet)
 
-[Character stats](https://github.com/Auleis/Project/blob/gh-pages/index.md#Characters-stats)
+[Character stats](#Characters-stats)
 
-[assigning the stats](https://github.com/Auleis/Project/blob/gh-pages/index.md#Assign-the-stats)
+[assigning the stats](#Assign-the-stats)
 
-[Picking your characters race](https://github.com/Auleis/Project/blob/gh-pages/index.md#Picking-your-characters-race)
+[Picking your characters race](#Picking-your-characters-race)
 
-[Race and stat benefits](https://github.com/Auleis/Project/blob/gh-pages/index.md#Race-stat-benefits)
+[Race and stat benefits](#Race-stat-benefits)
 
-[Stat modifiers](https://github.com/Auleis/Project/blob/gh-pages/index.md#Stat-modifiers)
+[Stat modifiers](#Stat-modifiers)
 
-[Background](https://github.com/Auleis/Project/blob/gh-pages/index.md#Background)
+[Background](#Background)
 
-[Proficiences](https://github.com/Auleis/Project/blob/gh-pages/index.md#Proficiences)
+[Proficiences](#Proficiences)
 
-[Proficiency bonus](https://github.com/Auleis/Project/blob/gh-pages/index.md#Proficency-bonus)
+[Proficiency bonus](#Proficency-bonus)
 
-[Picking your characters class](https://github.com/Auleis/Project/blob/gh-pages/index.md#Pick-your-characters-class)
+[Picking your characters class](#Pick-your-characters-class)
 
-[powers and abilities](https://github.com/Auleis/Project/blob/gh-pages/index.md#Powers-and-abilities)
+[powers and abilities](#Powers-and-abilities)
 
-[Hit points and Hit dice](https://github.com/Auleis/Project/blob/gh-pages/index.md#Hitpoints-and-hit-Die)
+[Hit points and Hit dice](#Hitpoints-and-hit-Die)
 
-[inititive](https://github.com/Auleis/Project/blob/gh-pages/index.md#Inititive)
+[inititive](#Inititive)
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
 You will also need the "Players Hand Book" (PHB) book at minimum to create a character sheet.
@@ -95,4 +95,4 @@ in the box that says inititive, write down whatever your DEX mod is.
 
 # And that's it!
 Your character sheet is now complete.
-[back to top](https://github.com/Auleis/Project/blob/gh-pages/index.md#Contents)
+[back to top](#Contents)
