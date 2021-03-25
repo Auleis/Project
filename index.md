@@ -1,35 +1,5 @@
 # How To Make A "Dungeons and Dragons" Character sheet
 
-## CONTENTS
-[Intro](#intro)
-
-[What is the character sheet?](#what-is-the-character-sheet)
-
-[Before working on the sheet](#Before-working-on-the-sheet)
-
-[Character stats](#Characters-stats)
-
-[assigning the stats](#Assign-the-stats)
-
-[Picking your characters race](#Picking-your-characters-race)
-
-[Race and stat benefits](#Race-stat-benefits)
-
-[Stat modifiers](#Stat-modifiers)
-
-[Background](#Background)
-
-[Proficiences](#Proficiences)
-
-[Proficiency bonus](#Proficency-bonus)
-
-[Picking your characters class](#Pick-your-characters-class)
-
-[powers and abilities](#Powers-and-abilities)
-
-[Hit points and Hit dice](#Hitpoints-and-hit-Die)
-
-[inititive](#Inititive)
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
 You will also need the "Players Hand Book" (PHB) book at minimum to create a character sheet.
@@ -95,4 +65,3 @@ in the box that says inititive, write down whatever your DEX mod is.
 
 # And that's it!
 Your character sheet is now complete.
-[back to top](#Contents)
