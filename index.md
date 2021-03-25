@@ -30,7 +30,7 @@ The next thing you should do after deciding who your character is, is *what* you
 Each race also gives boosts to some of your stats. Add these stat boosts to the stats you determied before.
 
 ## Stat modifiers
-The first things your stats affect are your "Stat Modifyers" or "Stat mods" Take each stats number, Divide it by 2, and then subtract 5. Always round down, and this number is your stat mod. Write this number in the small circle below each of the stat numbers in their boxs. 
+The first things your stats affect are your "Stat Modifiers" or "Stat mods" Take each stats number, Divide it by 2, and then subtract 5. Always round down, and this number is your stat mod. Write this number in the small circle below each of the stat numbers in their boxs. 
 
 ![image](https://i.imgur.com/04BkJeg.png)
 
@@ -58,8 +58,8 @@ Each level your character gains Hit points and Hit Die. For your hit points at l
 
 ![image](https://i.imgur.com/oTEYDFJ.png)
 
-## Inititive
-in the box that says inititive, write down whatever your DEX mod is. 
+## Initiative
+in the box that says initiative, write down whatever your DEX mod is. 
 
 ![image](https://i.imgur.com/oTEYDFJ.png)
 
