@@ -2,10 +2,34 @@
 
 ## CONTENTS
 [Intro](https://github.com/Auleis/Project/blob/gh-pages/index.md#intro)
+
 [What is the character sheet?](https://github.com/Auleis/Project/blob/gh-pages/index.md#what-is-the-character-sheet)
+
 [Before working on the sheet](https://github.com/Auleis/Project/blob/gh-pages/index.md#Before-working-on-the-sheet)
+
 [Character stats](https://github.com/Auleis/Project/blob/gh-pages/index.md#Characters-stats)
 
+[assigning the stats](https://github.com/Auleis/Project/blob/gh-pages/index.md#Assign-the-stats)
+
+[Picking your characters race](https://github.com/Auleis/Project/blob/gh-pages/index.md#Picking-your-characters-race)
+
+[Race and stat benefits](https://github.com/Auleis/Project/blob/gh-pages/index.md#Race-stat-benefits)
+
+[Stat modifiers](https://github.com/Auleis/Project/blob/gh-pages/index.md#Stat-modifiers)
+
+[Background](https://github.com/Auleis/Project/blob/gh-pages/index.md#Background)
+
+[Proficiences](https://github.com/Auleis/Project/blob/gh-pages/index.md#Proficiences)
+
+[Proficiency bonus](https://github.com/Auleis/Project/blob/gh-pages/index.md#Proficency-bonus)
+
+[Picking your characters class](https://github.com/Auleis/Project/blob/gh-pages/index.md#Pick-your-characters-class)
+
+[powers and abilities](https://github.com/Auleis/Project/blob/gh-pages/index.md#Powers-and-abilities)
+
+[Hit points and Hit dice](https://github.com/Auleis/Project/blob/gh-pages/index.md#Hitpoints-and-hit-Die)
+
+[inititive](https://github.com/Auleis/Project/blob/gh-pages/index.md#Inititive)
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
 You will also need the "Players Hand Book" (PHB) book at minimum to create a character sheet.
@@ -48,10 +72,10 @@ Next up is to pick what class your character best belongs to. There are a bunch 
 ## powers and abilities
 once you have picks your class, you will now gain powers and abilities. Each class offers differnt things at different levels. If your character is level 1, Write down everything your character gets at level one. 
 
-## Hit points, and hit Die
+## Hitpoints and hit Die
 Each level your character gains Hit points and Hit Die. For your hit points at level one you take the maximum number from what your class says to roll (If you roll a d8, take 8) and add your CON mod. This is your hitpoints at level one.
 
-## inititive
+## Inititive
 in the box that says inititive, write down whatever your DEX mod is. 
 
 # And that's it!
