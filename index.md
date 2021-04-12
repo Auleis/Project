@@ -1,9 +1,21 @@
 # How To Make A "Dungeons and Dragons" Character sheet
 
 ## CONTENTS
-
-
-
+[Intro](https://github.com/Auleis/Project/blob/WIP/index.md#INTRO)
+[What is the sheet?](https://github.com/Auleis/Project/blob/WIP/index.md#What-is-the-character-sheet?)
+[Before working on the sheet](https://github.com/Auleis/Project/blob/WIP/index.md#before-working-on-the-sheet)
+[before working on the sheet](https://github.com/Auleis/Project/blob/WIP/index.md#before-working-on-the-sheet)
+[Character stats](https://github.com/Auleis/Project/blob/WIP/index.md#Character-stats)
+[Assign your stats](https://github.com/Auleis/Project/blob/WIP/index.md#Assign the stats)
+[pick your race](https://github.com/Auleis/Project/blob/WIP/index.md#Pick-your-characters-race)
+[Stat modifiers](https://github.com/Auleis/Project/blob/WIP/index.md#Stat-modifiers)
+[background](https://github.com/Auleis/Project/blob/WIP/index.md#Background)
+[Profciencies](https://github.com/Auleis/Project/blob/WIP/index.md#Proficiences)
+[Profciency bonus](https://github.com/Auleis/Project/blob/WIP/index.md#Profciency-bonus)
+[Pick your class](https://github.com/Auleis/Project/blob/WIP/index.md#Pick-your-characters-class)
+[Powers and abilites](https://github.com/Auleis/Project/blob/WIP/index.md#Powers-and-abilities)
+[hit points, and hit die](https://github.com/Auleis/Project/blob/WIP/index.md#Hit-points,-and-hit-die)
+[inititive](https://github.com/Auleis/Project/blob/WIP/index.md#inititive)
 
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
