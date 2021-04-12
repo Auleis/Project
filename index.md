@@ -66,7 +66,7 @@ now we step away from numbers for a bit. It is now time to chose a background fo
 ## Step 7- Determine your characters Proficiences
 Proficiences are what your character is good at. Sometimes your race will offer some, your background offers two, and your class will offer anywhere between 2 and 4. If you gain proficency in a skill, mark that down by circling the bubble next to the skills name. 
 
-# About proficency bonus
+### About proficency bonus
 each character has a "Proficency bonus" this is a number added to any dice roll that uses a skill you are proficent in. As your character levels up, they get better at things they are proficent at. There is a table in the PHB that tells you what your proficeny bonus is at each level. 
 
 ## Step 8- Pick your characters class
