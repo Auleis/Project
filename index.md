@@ -35,7 +35,7 @@
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
 
 ## Materials List
-You will need at minimum the Players Hand Book (Sold by Wizards of the Coast), and a Character sheet of some sort.
+You will need at minimum the Players Hand Book (Sold by Wizards of the Coast), a bag of dice, and a Character sheet of some sort.
 
 ## What is the character sheet?
 the character sheets look can vary some, but the offical one is the following
