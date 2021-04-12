@@ -1,33 +1,33 @@
 # How To Make A "Dungeons and Dragons" Character sheet
 
 ## CONTENTS
-[Intro](https://github.com/Auleis/Project/blob/WIP/index.md#INTRO)
+[INTRO](https://github.com/Auleis/Project/blob/WIP/index.md#intro)
 
-[What is the sheet?](https://github.com/Auleis/Project/blob/WIP/index.md#What-is-the-character-sheet?)
+[What is the character sheet?](https://github.com/Auleis/Project/blob/WIP/index.md#what-is-the-character-sheet)
 
 [Before working on the sheet](https://github.com/Auleis/Project/blob/WIP/index.md#before-working-on-the-sheet)
 
-[before working on the sheet](https://github.com/Auleis/Project/blob/WIP/index.md#before-working-on-the-sheet)
+[Determine your stats](https://github.com/Auleis/Project/blob/WIP/index.md#step-1--determine-your-characters-stats)
 
-[Character stats](https://github.com/Auleis/Project/blob/WIP/index.md#Character-stats)
+[Assign your stats](https://github.com/Auleis/Project/blob/WIP/index.md#step-2--assign-the-stats)
 
-[Assign your stats](https://github.com/Auleis/Project/blob/WIP/index.md#Assign-the-stats)
+[Pick your race](https://github.com/Auleis/Project/blob/WIP/index.md#step-3--pick-your-characters-race)
 
-[pick your race](https://github.com/Auleis/Project/blob/WIP/index.md#Pick-your-characters-race)
+[add your race-state benefits](https://github.com/Auleis/Project/blob/WIP/index.md#step-4--add-your-race-stat-benefits)
 
-[Stat modifiers](https://github.com/Auleis/Project/blob/WIP/index.md#Stat-modifiers)
+[Determine your stat modifiers](https://github.com/Auleis/Project/blob/WIP/index.md#step-5--determine-your-stat-modifiers)
 
-[background](https://github.com/Auleis/Project/blob/WIP/index.md#Background)
+[Determine your background](https://github.com/Auleis/Project/blob/WIP/index.md#step-6--determine-your-characters-background)
 
-[Profciencies](https://github.com/Auleis/Project/blob/WIP/index.md#Proficiences)
+[determine your proficiences](https://github.com/Auleis/Project/blob/WIP/index.md#step-7--determine-your-characters-proficiences)
 
-[Profciency bonus](https://github.com/Auleis/Project/blob/WIP/index.md#Profciency-bonus)
+[About the Proficiency bonus](https://github.com/Auleis/Project/blob/WIP/index.md#about-proficency-bonus)
 
-[Pick your class](https://github.com/Auleis/Project/blob/WIP/index.md#Pick-your-characters-class)
+[Pick your class](https://github.com/Auleis/Project/blob/WIP/index.md#step-8--pick-your-characters-class)
 
-[Powers and abilites](https://github.com/Auleis/Project/blob/WIP/index.md#Powers-and-abilities)
+[Write down powers and abilities](https://github.com/Auleis/Project/blob/WIP/index.md#step-9--write-down-your-characters-powers-and-abilities)
 
-[hit points, and hit die](https://github.com/Auleis/Project/blob/WIP/index.md#Step-10--Dertimine-your-characters-HitPoints,-and-HitDie)
+[Determine your HitPoints and HitDie](https://github.com/Auleis/Project/blob/WIP/index.md#step-10--Determine-your-characters-hitpoints-and-hitdie)
 
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
@@ -71,7 +71,7 @@ Next up is to pick what class your character best belongs to. There are a bunch 
 ## Step 9- Write down your characters powers and abilities
 once you have picks your class, you will now gain powers and abilities. Each class offers differnt things at different levels. If your character is level 1, Write down everything your character gets at level one. 
 
-## Step 10- Dertimine your characters HitPoints, and HitDie
+## Step 10- Determine your characters HitPoints, and HitDie
 Each level your character gains Hit points and Hit Die. For your hit points at level one you take the maximum number from what your class says to roll (If you roll a d8, take 8) and add your CON mod. This is your hitpoints at level one.
 
 # And that's it!
