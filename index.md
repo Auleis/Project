@@ -33,13 +33,9 @@
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
 You will also need the "Players Hand Book" (PHB) book at minimum to create a character sheet.
 
-[Back to the top](https://github.com/Auleis/Project/blob/WIP/index.md#contents)
-
 ## What is the character sheet?
 the character sheets look can vary some, but the offical one is the following
 ![Image](https://content.instructables.com/ORIG/F32/Y0FV/J8F5Q3W5/F32Y0FVJ8F5Q3W5.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=5a45ebe2850f9ab8d04792009d63d6a5)
-
-[Back to the top](https://github.com/Auleis/Project/blob/WIP/index.md#contents)
 
 ## Before working on the sheet
 You should figure out what type of character you will be playing. Who they are, what they want, why they do things etc. This is to give an idea of what you want to do.
