@@ -3,6 +3,8 @@
 ## CONTENTS
 [INTRO](https://github.com/Auleis/Project/blob/WIP/index.md#intro)
 
+[Materials List](https://github.com/Auleis/Project/blob/WIP/index.md#Materials-List)
+
 [What is the character sheet?](https://github.com/Auleis/Project/blob/WIP/index.md#what-is-the-character-sheet)
 
 [Before working on the sheet](https://github.com/Auleis/Project/blob/WIP/index.md#before-working-on-the-sheet)
@@ -31,7 +33,9 @@
 
 ## INTRO
 Dungeons and Dragons, or D&D, is a Table top Roleplaying game in which you create a character to explore a world made by someone else. An important, and arguably diffucult part of this is making your character and creating a "Character Sheet" for them. This stores all the information you will ever need about your character for their stats, to what they have on them.
-You will also need the "Players Hand Book" (PHB) book at minimum to create a character sheet.
+
+## Materials List
+You will need at minimum the Players Hand Book, and a Character sheet of some sort.
 
 ## What is the character sheet?
 the character sheets look can vary some, but the offical one is the following
